@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sonho Verde — Site Institucional
 
 Site estático de página única (landing page) para a **Sonho Verde — Colchões & Flores**, em Canoas/RS.
@@ -43,3 +44,7 @@ Acesse `http://localhost:8000`.
 - `index.html` (formulário de contato): inserir a chave do Web3Forms no campo `access_key`.
 - Instagram do rodapé e da seção de contatos: substituir `[Insira o @ do Instagram aqui]`.
 - Depoimentos: preencher os cards com relatos reais.
+=======
+# lp-sonhoverde
+A simple but useful LP made for a Simplifica Tech client, envisioning design and simplicity.
+>>>>>>> 45c6df79323160caad3029993102fcb3b4023cc7
